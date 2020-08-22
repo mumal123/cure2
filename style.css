@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border:2px solid black;
+}
+textarea{
+  min-height: 20%;
+  max-height: 30%;
+  width:50%;
+}
+Button{
+  border:1px solid black;
+  background-color: rgb(236, 247, 89);
+}
